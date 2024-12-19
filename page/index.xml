@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on 代码无界限</title><link>https://game1991.github.io/CodeImp/page/</link><description>Recent content in Pages on 代码无界限</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 06 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://game1991.github.io/CodeImp/page/index.xml" rel="self" type="application/rss+xml"/><item><title>归档</title><link>https://game1991.github.io/CodeImp/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://game1991.github.io/CodeImp/archives/</guid><description/></item><item><title>关于</title><link>https://game1991.github.io/CodeImp/%E5%85%B3%E4%BA%8E/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://game1991.github.io/CodeImp/%E5%85%B3%E4%BA%8E/</guid><description/></item><item><title>搜索</title><link>https://game1991.github.io/CodeImp/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://game1991.github.io/CodeImp/search/</guid><description/></item><item><title>友情链接</title><link>https://game1991.github.io/CodeImp/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://game1991.github.io/CodeImp/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</guid><description>&lt;!--
+要使用此功能，请在 frontmatter 中添加 `links` 部分。
+此页面的 frontmatter 示例：
+```yaml
+links:
+- title: GitHub
+description: GitHub 是世界上最大的软件开发平台
+website: https://github.com
+image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+- title: TypeScript
+description: TypeScript 是 JavaScript 的类型化超集，可以编译为普通的 JavaScript
+website: https://www.typescriptlang.org
+image: ts-logo-128.jpg
+```
+`image` 字段接受本地和外部图片。
+-->
+&lt;ul>
+&lt;li>Github&lt;/li>
+&lt;li>微信&lt;/li>
+&lt;/ul></description></item></channel></rss>
